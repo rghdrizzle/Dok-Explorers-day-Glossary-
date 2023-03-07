@@ -1,7 +1,7 @@
-# Operators
-Welcome to Operators glossary 
+# Streaming
+Welcome to Streaming glossary 
 
-This glossary covers the most important and relevant terms related to operators in k8s, and each term is defined
+This glossary covers the most important and relevant terms related to operators in streaming of data on k8s, and each term is defined
 
 | Term | Definition |
 | --- | --- |
@@ -10,5 +10,5 @@ This glossary covers the most important and relevant terms related to operators 
 | | |
 
 
-We hope this glossary helps you better understand the world of operators in k8s, and enables you to explore these exciting technologies with confidence. If you have any feedback or suggestions for new terms to add to the glossary, please feel free to contribute to the repo
+We hope this glossary helps you better understand the world of streaming of data on k8s, and enables you to explore these exciting technologies with confidence. If you have any feedback or suggestions for new terms to add to the glossary, please feel free to contribute to the repo
 
