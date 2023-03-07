@@ -15,7 +15,7 @@ Thank you for participating in Dok exploreres day:), and we hope you find this g
 
 | TOPICS| link |
 | --- | --- |
-| KUBERNETES| [CLICK HERE](./k8s.md) |
+| KUBERNETES| [CLICK HERE](./kubernetes.md) |
 | AI/ML | [CLICK HERE](./Ai.md)|
 | STREAMING/MESSAGING| [CLICK HERE](./streaming.md) |
 | OPERATORS| [CLICK HERE](./operators.md)|
