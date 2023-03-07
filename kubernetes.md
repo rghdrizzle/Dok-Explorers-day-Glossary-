@@ -10,4 +10,4 @@ This glossary covers the most important and relevant terms related to k8s, and e
 | | |
 
 
-We hope this glossary helps you better understand the world of AI/ML, and enables you to explore these exciting technologies with confidence. If you have any feedback or suggestions for new terms to add to the glossary, please feel free to contribute to the repo
+We hope this glossary helps you better understand the world of k8s, and enables you to explore these exciting technologies with confidence. If you have any feedback or suggestions for new terms to add to the glossary, please feel free to contribute to the repo
